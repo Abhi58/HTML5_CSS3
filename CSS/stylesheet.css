@@ -13,7 +13,7 @@
 
 	body{
 				background:url(../images/Windows.jpg) no-repeat;
-				background-size:1500px 3000px;
+				background-size:1500px 5000px;
 				top:0
 		}
 
@@ -33,13 +33,13 @@
 			color:#fff
 				}
 		.image{
-			margin:0 100px 0 -2px;
+			margin:0 100px 0 -33px;
 			align:center
 			}
 		.navigation{
 			background:#036;
 			margin-right:100px;
-			margin-left:-1px
+			margin-left:-33px
 			}
 		.line a:hover,nav li a:hover{
 			text-decoration:underline
